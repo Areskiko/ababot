@@ -1,4 +1,4 @@
-# Welcome to Ababot
+## Welcome to Ababot
 
 You can register a [discord bot](https://discord.com/developers/applications) to and then invite it to your server.
 
