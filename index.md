@@ -1,8 +1,11 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Areskiko/ababot/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can register a [discord bot](https://discord.com/developers/applications) to and then invite it to your server.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Use `docker run -it areskiko/ababot` and paste in your token from the discord developer portal.
+
+# That's it!
+Your bot is now running
 
 ### Markdown
 
